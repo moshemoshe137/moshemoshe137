@@ -13,6 +13,13 @@
 
 - 😄 Pronouns: **He/Him**
 
+> Physicists have agonized over 137 for the past fifty years. Werner Heisenberg once proclaimed that all the quandaries of quantum mechanics
+> would shrivel up when 137 was finally explained. I tell my undergraduate students that if they are ever in trouble in a major city
+> anywhere in the world they should write “137” on a sign and hold it up at a busy street corner. Eventually, a physicist will see that
+> they're distressed and come to their assistance. (No one to my knowledge has ever tried this, but it should work.)
+>
+> Leon M. Lederman, _The God Particle_ (1993)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/moshe-rubin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moshe-rubin" height="30" width="40" /></a>
