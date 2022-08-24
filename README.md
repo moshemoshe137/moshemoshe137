@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moshe Rubin</h1>
+<p align="center">moshemoshe137</p>
 <h3 align="center">An aspiring data analyst in Chicago, IL</h3>
 
 - 🔭 I’m currently working on [EAB Tools](https://github.com/moshemoshe137/EAB_tools)
