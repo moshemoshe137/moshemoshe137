@@ -1,0 +1,37 @@
+default_stages:
+  - commit
+  - merge-commit
+  - push
+  - prepare-commit-msg
+  - commit-msg
+  - post-checkout
+  - post-commit
+  - post-merge
+  - post-rewrite
+repos:
+  - repo: 'https://github.com/pre-commit/pre-commit-hooks'
+    rev: v4.3.0
+    hooks:
+      - id: check-added-large-files  # prevents giant files from being committed.
+      - id: check-case-conflict      # checks for files that would conflict in
+                                     # case-insensitive filesystems.
+      - id: check-merge-conflict     # checks for files that contain merge conflict
+                                     # strings.
+      - id: check-yaml               # checks yaml files for parseable syntax.
+      - id: detect-private-key       # detects the presence of private keys.
+      - id: end-of-file-fixer        # ensures that a file is either empty, or ends with
+                                     # one newline.
+      - id: mixed-line-ending        # replaces or checks mixed line ending.
+      - id: trailing-whitespace      # trims trailing whitespace.
+  - repo: 'https://github.com/executablebooks/mdformat'
+    rev: 0.7.16
+    hooks:
+      - id: mdformat  # Mdformat is an opinionated Markdown formatter that can be used
+                      # to enforce a consistent style in Markdown files.
+        additional_dependencies:
+          # For full GitHub support
+          - mdformat-gfm
+          - mdformat-frontmatter
+          - mdformat-footnote
+        args:
+          - '--wrap=88'
