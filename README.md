@@ -2,6 +2,9 @@
 <p align="center">moshemoshe137</p>
 <h3 align="center">An aspiring data analyst in Chicago, IL</h3>
 
+- 👨‍🏫 I'm Moshe (rhymes with [_Nova Scotia_](https://en.wikipedia.org/wiki/Nova_Scotia)
+  or [_Kenosha_](https://en.wikipedia.org/wiki/Kenosha,_Wisconsin))
+
 - 🔭 I’m currently working on [EAB Tools](https://github.com/moshemoshe137/EAB_tools)
 
 - 🌱 I’m currently learning **pytest**
