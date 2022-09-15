@@ -7,14 +7,15 @@
 
 - 🔭 I’m currently working on [EAB Tools](https://github.com/moshemoshe137/EAB_tools)
 
-- 🌱 I’m currently learning **pytest**
+- 🌱 I’m currently learning [**pytest**](https://docs.pytest.org/en/stable/)
 
 - 👨‍💻 All of my projects are available at
   [https://github.com/moshemoshe137](https://github.com/moshemoshe137)
 
-- 💬 Ask me about **pandas, NumPy, or statsmodels**
+- 💬 Ask me about **[pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), or
+  [statsmodels](https://www.statsmodels.org/stable/index.html)**
 
-- 📫 How to reach me **mosherubin137@gmail.com**
+- 📫 How to reach me [**mosherubin137@gmail.com**](mailto:mosherubin137@gmail.com)
 
 - 😄 Pronouns: **He/Him**
 
