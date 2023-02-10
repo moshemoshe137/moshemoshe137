@@ -713,7 +713,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jazzband/pip-tools</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of tools to keep your pinned Python dependencies fresh.</div>
@@ -819,7 +819,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LibreScore/dl-librescore</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download sheet music</div>
@@ -922,7 +922,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2023, 06:36:55 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Feb 2023, 12:25:09 (timezone America/Chicago) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
