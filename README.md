@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moshe Rubin</h1>
 <p align="center">moshemoshe137</p>
-<h3 align="center">An aspiring data analyst in Chicago, IL</h3>
+<h3 align="center">A data analyst in Chicago, IL</h3>
 
 - 👨‍🏫 I'm Moshe (rhymes with [_Nova Scotia_](https://en.wikipedia.org/wiki/Nova_Scotia)
   or [_Kenosha_](https://en.wikipedia.org/wiki/Kenosha,_Wisconsin))
