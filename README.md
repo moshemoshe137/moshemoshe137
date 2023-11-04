@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently working on [EAB Tools](https://github.com/moshemoshe137/EAB_tools)
 
-- 🌱 I’m currently learning
-  [Discrete Fourier Transforms](https://numpy.org/doc/stable/reference/routines.fft.html#background-information)
+- 🌱 I’m currently learning [Rust](https://rust-book.cs.brown.edu/title-page.html)
 
 - 👨‍💻 All of my projects are available at
   [https://github.com/moshemoshe137](https://github.com/moshemoshe137)
