@@ -12,8 +12,8 @@
 - 👨‍💻 All of my projects are available at
   [https://github.com/moshemoshe137](https://github.com/moshemoshe137)
 
-- 💬 Ask me about **[pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), or
-  [statsmodels](https://www.statsmodels.org/stable/index.html)**
+- 💬 Ask me about **[pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/),
+  or [statsmodels](https://www.statsmodels.org/stable/index.html)**
 
 - 📫 How to reach me [**mosherubin137@gmail.com**](mailto:mosherubin137@gmail.com)
 
