@@ -32,22 +32,105 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/moshe-rubin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="moshe-rubin" title="LinkedIn" height="40"/></a>
-<a href="https://github.com/moshemoshe137" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" title="GitHub" align="center"></a>
+  <a href="https://linkedin.com/in/moshe-rubin" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+      alt="moshe-rubin"
+      title="LinkedIn"
+      height="40"
+  /></a>
+  <a href="https://github.com/moshemoshe137" target="blank"
+    ><img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
+      alt="GitHub"
+      height="40"
+      title="GitHub"
+      align="center"
+  /></a>
 </p>
 
 ### Languages and Tools:
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" height="40" title="Python"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" alt="pandas" title="Python `pandas`" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" title="Git version control" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg" alt="linux" title="Linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" title="Bash" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C Programming" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn: statistical data visualization" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="SQLite" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
+      alt="python"
+      height="40"
+      title="Python"
+    />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg"
+      alt="pandas"
+      title="Python `pandas`"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
+      alt="git"
+      title="Git version control"
+      height="40"
+    />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b0/NewTux.svg"
+      alt="linux"
+      title="Linux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"
+      alt="bash"
+      title="Bash"
+      height="40"
+    />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      title="Java"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      title="C Programming"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+      alt="seaborn"
+      title="Seaborn: statistical data visualization"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+      alt="sqlite"
+      title="SQLite"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
 <p align="center">
-  <img src=github-metrics.svg>
+  <img src="github-metrics.svg" />
 </p>
