@@ -76,6 +76,22 @@
       title="Git version control"
       height="40"
     />
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+        height="40"
+        alt="Visual Studio Code"
+        title="VS Code"
+      />
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+        height="40"
+        alt="Jupyter Notebook"
+        title="Jupyter notebook"
+      />
+    </a>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
@@ -92,6 +108,69 @@
       alt="bash"
       title="Bash"
       height="40"
+    />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+      height="40"
+      title="Oracle"
+      alt="Oracle"
+    />
+  </a>
+  <a href="https://github.com/PowerShell/PowerShell#readme" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
+      height="40"
+      alt="PowerShell"
+      title="PowerShell 7"
+    />
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg"
+      height="40"
+      alt="Raspberry Pi"
+      title="Raspberry Pi"
+    />
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
+      height="40"
+      alt="Anaconda"
+      title="Anaconda scientific computing"
+  /></a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+      height="40"
+      alt="Matplotlib"
+      title="Matplotlib"
+    />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg"
+      height="40"
+      alt="NumPy"
+      title="NumPy"
+    />
+  </a>
+  <a href="https://pytest.org" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
+      height="40"
+      alt="PyTest"
+      title="PyTest"
+    />
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
+      height="40"
+      alt="LaTeX"
+      title="LaTeX"
     />
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -111,6 +190,22 @@
       height="40"
     />
   </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+      height="40"
+      alt="R"
+      title="R Programming Language"
+    />
+  </a>
+  <a href="https://www.sqlalchemy.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"
+      height="40"
+      alt="SQL Alchemy"
+      title="SQL Alchemy"
+    />
+  </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
@@ -120,6 +215,14 @@
       height="40"
     />
   </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg"
+      height="40"
+      alt="Ubuntu"
+      title="Ubuntu"
+    />
+  </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
@@ -127,6 +230,38 @@
       title="SQLite"
       width="40"
       height="40"
+    />
+  </a>
+  <a href="https://about.codecov.io/" target="_blank"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codecov/codecov-plain.svg"
+      alt="codecov"
+      title="Codecov"
+      height="40"
+    />
+  </a>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"
+      height="40"
+      alt="Markdown"
+      title="Markdown"
+    />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+      height="40"
+      alt="PyCharm"
+      title="PyCharm IDE"
+    />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+      height="40"
+      alt="IntelliJ"
+      title="IntelliJ IDE"
     />
   </a>
 </p>
