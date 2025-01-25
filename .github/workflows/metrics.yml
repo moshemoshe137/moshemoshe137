@@ -56,7 +56,5 @@ jobs:
           plugin_lines_history_limit: 0
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_stars: yes
-          plugin_stars_limit: 4
           repositories_affiliations: owner,collaborator
           repositories_skipped: github-slideshow,myappsample
