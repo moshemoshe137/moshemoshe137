@@ -42,7 +42,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_skipped:
             moshemoshe137/LS-Math-Resources, moshemoshe137/CSIS-Resources
-          plugin_languages_ignored: HTML
+          plugin_languages_ignored: HTML, stata
           plugin_languages_aliases: Jupyter Notebook:Python, PLpgSQL:PLSQL, SQL:PLSQL
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_analysis_timeout: 60
