@@ -38,7 +38,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 1000
           plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0.04%
+          plugin_habits_languages_threshold: 0%
           plugin_languages: yes
           plugin_languages_skipped:
             moshemoshe137/LS-Math-Resources, moshemoshe137/CSIS-Resources
@@ -52,7 +52,7 @@ jobs:
           plugin_languages_recent_days: 0
           plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_threshold: 0.04%
           plugin_lines: yes
           plugin_lines_history_limit: 0
           plugin_lines_repositories_limit: 100
