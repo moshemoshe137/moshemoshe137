@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Moshe Rubin</h1>
 <p align="center">moshemoshe137</p>
-<h3 align="center">A data analyst in Chicago, IL</h3>
+<h3 align="center">Data Analyst in Chicago, IL</h3>
 
 - 👨‍🏫 I'm Moshe (rhymes with [_Nova Scotia_](https://en.wikipedia.org/wiki/Nova_Scotia)
   or [_Kenosha_](https://en.wikipedia.org/wiki/Kenosha,_Wisconsin))
 
-- 🔭 I’m currently working on [EAB Tools](https://github.com/moshemoshe137/EAB_tools)
+- 🔭 I’m currently working on [PBIP Tools](https://github.com/moshemoshe137/pbip-tools)
 
-- 🌱 I’m currently learning [Rust](https://rust-book.cs.brown.edu/title-page.html)
+- 🌱 I’m currently learning
+  [Microsoft Graph API](https://learn.microsoft.com/en-us/graph/use-the-api)
 
 - 👨‍💻 All of my projects are available at
   [https://github.com/moshemoshe137](https://github.com/moshemoshe137)
 
-- 💬 Ask me about **[pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/),
-  or [statsmodels](https://www.statsmodels.org/stable/index.html)**
+- 💬 Ask me about **[pandas](https://pandas.pydata.org/),
+  [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi), or
+  [NumPy](https://numpy.org/)**
 
 - 📫 How to reach me [**mosherubin137@gmail.com**](mailto:mosherubin137@gmail.com)
 
