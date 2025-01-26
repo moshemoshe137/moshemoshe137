@@ -57,4 +57,3 @@ jobs:
           plugin_lines_repositories_limit: 100
           plugin_lines_sections: base
           repositories_affiliations: owner,collaborator
-          repositories_skipped: github-slideshow,myappsample
