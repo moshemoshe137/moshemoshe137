@@ -27,7 +27,6 @@ jobs:
           # Options
           user: moshemoshe137
           template: classic
-          base: repositories, metadata
           base_indepth: yes
           config_timezone: America/Chicago
           plugin_calendar: yes
