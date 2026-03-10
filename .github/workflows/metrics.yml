@@ -12,7 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Pin to a fixed release for reproducible runs (avoid @latest regressions)
+      - uses: lowlighter/metrics@v3.34
         with:
           # Your GitHub token
           # The following scopes are required:
